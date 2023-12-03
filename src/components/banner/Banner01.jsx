@@ -47,8 +47,8 @@ function Banner01(props) {
                                             </h1>
                                             <p className="sub-heading">Find Your Way, Live Free, Thrive 🔥</p>
                                             <div className="btn-slider ">
-                                                <NavLink to="/holyspirit/tokenomics" className="tf-button style-2">Tokenomics</NavLink>
-                                                <NavLink to="/holyspirit/meta" className="tf-button style-2">Launch App</NavLink>
+                                                <NavLink to="/tokenomics" className="tf-button style-2">Tokenomics</NavLink>
+                                                <NavLink to="/meta" className="tf-button style-2">Launch App</NavLink>
                                             </div>
 
                                         </div>
