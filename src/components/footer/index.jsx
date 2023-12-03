@@ -140,7 +140,7 @@ function Footer(props) {
                                 <div className="menu menu-4">
                                     <h6 className="widget-title">Contact</h6>
                                     <ul >
-                                        <li>holyspiritcoin@gmail.com</li>
+                                        <li>holyspiriterc20@gmail.com</li>
                                     </ul>
                                 </div>
                             </div>
