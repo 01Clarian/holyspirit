@@ -2,6 +2,11 @@
 .slider-home.home1 {
     margin-right: -30px;
 }
+@media (max-width: 576px) {
+    .shrinker {
+      font-size: 14px;
+    }
+  }
 .tf-slider-item {
     @include flexitem;
     justify-content: space-between;
