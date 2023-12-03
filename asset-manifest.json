@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6c7eee84.css",
-    "main.js": "/static/js/main.688fe3fb.js",
+    "main.js": "/static/js/main.d4e3fe9a.js",
     "static/media/church.png": "/static/media/church.7ecedfad9af5791687aa.png",
     "static/media/fa-duotone-900.svg": "/static/media/fa-duotone-900.bac7a949fdfa983ff8a5.svg",
     "static/media/fa-light-300.svg": "/static/media/fa-light-300.676ceddb711397cb345f.svg",
@@ -61,10 +61,10 @@
     "static/media/icon-wallet-4.svg": "/static/media/icon-wallet-4.5d5b5c69711c617907c23243163e1a0f.svg",
     "static/media/icon-wallet-8.svg": "/static/media/icon-wallet-8.ee9d52bfbb0752a8a7065c8def07e235.svg",
     "main.6c7eee84.css.map": "/static/css/main.6c7eee84.css.map",
-    "main.688fe3fb.js.map": "/static/js/main.688fe3fb.js.map"
+    "main.d4e3fe9a.js.map": "/static/js/main.d4e3fe9a.js.map"
   },
   "entrypoints": [
     "static/css/main.6c7eee84.css",
-    "static/js/main.688fe3fb.js"
+    "static/js/main.d4e3fe9a.js"
   ]
 }
