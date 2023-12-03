@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/holyspirit/static/css/main.3510620a.css",
-    "main.js": "/holyspirit/static/js/main.7822d31a.js",
+    "main.css": "/holyspirit/static/css/main.1b22684b.css",
+    "main.js": "/holyspirit/static/js/main.d2c56030.js",
     "static/media/church.png": "/holyspirit/static/media/church.7ecedfad9af5791687aa.png",
     "static/media/fa-duotone-900.svg": "/holyspirit/static/media/fa-duotone-900.bac7a949fdfa983ff8a5.svg",
     "static/media/fa-light-300.svg": "/holyspirit/static/media/fa-light-300.676ceddb711397cb345f.svg",
@@ -60,11 +60,11 @@
     "static/media/icon-wallet-7.svg": "/holyspirit/static/media/icon-wallet-7.de30f0e7bae17235d7ba9e3aa05e5536.svg",
     "static/media/icon-wallet-4.svg": "/holyspirit/static/media/icon-wallet-4.5d5b5c69711c617907c23243163e1a0f.svg",
     "static/media/icon-wallet-8.svg": "/holyspirit/static/media/icon-wallet-8.ee9d52bfbb0752a8a7065c8def07e235.svg",
-    "main.3510620a.css.map": "/holyspirit/static/css/main.3510620a.css.map",
-    "main.7822d31a.js.map": "/holyspirit/static/js/main.7822d31a.js.map"
+    "main.1b22684b.css.map": "/holyspirit/static/css/main.1b22684b.css.map",
+    "main.d2c56030.js.map": "/holyspirit/static/js/main.d2c56030.js.map"
   },
   "entrypoints": [
-    "static/css/main.3510620a.css",
-    "static/js/main.7822d31a.js"
+    "static/css/main.1b22684b.css",
+    "static/js/main.d2c56030.js"
   ]
 }
