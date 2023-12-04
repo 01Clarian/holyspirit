@@ -119,6 +119,20 @@ const Header = () => {
                   >
                     <i className="fab fa-telegram"></i>
                   </Button>
+                  <Button
+                  style={{ margin: '5px' }}
+                    variant="secondary"
+                    href="https://github.com/01clarian/holyspirit"
+                  >
+                    <i className="fab fa-github"></i>
+                  </Button>
+                  <Button
+                  style={{  backgroundColor:'orange' }}
+                    
+                    href="https://instagram.com/holyspirittoken?igshid=OGQ5ZDc2ODk2ZA=="
+                  >
+                    <i className="fab fa-instagram"></i>
+                  </Button>
                   <Link
                     target="_blank"
                     to="https://app.uniswap.org/tokens/ethereum/0x2c266aa7d0c4edcb1dc1cda0973dcc8bcf010ed6"
