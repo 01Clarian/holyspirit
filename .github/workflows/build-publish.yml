@@ -12,6 +12,7 @@ jobs:
         with:
           node-version: '20.x'
           registry-url: 'https://registry.npmjs.org'
+      - run: npm ci
       - run: npm run build
       - run: mv build/* public/
       - uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
