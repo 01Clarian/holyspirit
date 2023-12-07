@@ -133,20 +133,6 @@ const Header = () => {
                   >
                     <i className="fab fa-instagram"></i>
                   </Button>
-                  <Link
-                    target="_blank"
-                    to="https://app.uniswap.org/tokens/ethereum/0x2c266aa7d0c4edcb1dc1cda0973dcc8bcf010ed6"
-                  >
-                    <img
-                      src={uniswap}
-                      width="40px"
-                      alt="uniswap"
-                      style={{ margin: '7px' }}
-                    />
-                  </Link>
-                  <Link target="_blank" to="https://coinbase.com">
-                    <img src={coinbase} width="40px" alt="coinbase" />
-                  </Link>
                 </div>
               </div>
 
