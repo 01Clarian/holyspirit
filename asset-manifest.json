@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6c7eee84.css",
-    "main.js": "/static/js/main.1e85dd2f.js",
+    "main.js": "/static/js/main.11fe1b0e.js",
     "static/media/church.png": "/static/media/church.7ecedfad9af5791687aa.png",
     "static/media/fa-duotone-900.svg": "/static/media/fa-duotone-900.bac7a949fdfa983ff8a5.svg",
     "static/media/fa-light-300.svg": "/static/media/fa-light-300.676ceddb711397cb345f.svg",
@@ -11,7 +11,7 @@
     "static/media/magic.png": "/static/media/magic.9a6a04e41aa14c96163b.png",
     "static/media/flydove.gif": "/static/media/flydove.060b2728f34998d8ef27.gif",
     "static/media/bg-home-5.png": "/static/media/bg-home-5.f0908f87117875482317.png",
-    "static/media/uniswapbuy.png": "/static/media/uniswapbuy.a6faa66d5ab4c86b8fdc.png",
+    "static/media/uniswapbuy.png": "/static/media/uniswapbuy.c2b2417dc52fafdd3f19.png",
     "static/media/verified.png": "/static/media/verified.0471407a356a7ed8415c.png",
     "static/media/bg-home-3.png": "/static/media/bg-home-3.ad1df54e3d81dcc64978.png",
     "static/media/bg-home-3-dark.png": "/static/media/bg-home-3-dark.3cb5abc93b224426c205.png",
@@ -61,10 +61,10 @@
     "static/media/icon-wallet-4.svg": "/static/media/icon-wallet-4.5d5b5c69711c617907c23243163e1a0f.svg",
     "static/media/icon-wallet-8.svg": "/static/media/icon-wallet-8.ee9d52bfbb0752a8a7065c8def07e235.svg",
     "main.6c7eee84.css.map": "/static/css/main.6c7eee84.css.map",
-    "main.1e85dd2f.js.map": "/static/js/main.1e85dd2f.js.map"
+    "main.11fe1b0e.js.map": "/static/js/main.11fe1b0e.js.map"
   },
   "entrypoints": [
     "static/css/main.6c7eee84.css",
-    "static/js/main.1e85dd2f.js"
+    "static/js/main.11fe1b0e.js"
   ]
 }
