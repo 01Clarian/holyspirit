@@ -51,10 +51,8 @@ IMAGINE A WORLD WHERE SPIRITUALITY ISN'T CONFINED TO RIGID STRUCTURES, BUT FLOWS
  HOLY SPIRIT TOKEN IS THE KEY THAT UNLOCKS THIS DOOR. IT'S A TOOL FOR CONSCIOUS CREATORS, A CURRENCY OF COMPASSION, A BRIDGE BETWEEN SEEKERS AND GIVERS. 💗 💗 💗 </h3>
                                 </div>
                                 <div className="image style-2">
-                                    <Link target='_blank' to="https://app.uniswap.org/tokens/ethereum/0x2c266aa7d0c4edcb1dc1cda0973dcc8bcf010ed6">
                                     <img className="mr20" width='10%' src={img2} alt="Holy Spirit" />
                                     <img src={img3} width='50%' alt="how to buy" />
-                                    </Link>
                                 </div>
                                 <div className="content-top">
                                     <h3 className="title"

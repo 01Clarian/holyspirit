@@ -28,7 +28,7 @@ function Banner01(props) {
                     <div className="row">
                         <div className="col-md-12">
                         <p className="heading" style={{color:'rgb(243, 243, 171)', fontSize:'20px', marginBottom:'12px', marginTop:'12px'}}>
-                                            <span style={{color:'white'}}>Holy Spirit Contract:</span> <span className='shrinker'>0x2c266aa7d0c4edcb1dc1cda0973dcc8bcf010ed6  </span> 
+                                            <span style={{color:'white'}}>Holy Spirit Contract:</span> <span className='shrinker'>undefined  </span> 
                                             </p>
                         <Swiper
                             modules={[Navigation,  Scrollbar, A11y ]}

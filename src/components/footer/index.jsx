@@ -110,7 +110,7 @@ function Footer(props) {
                     <div className="row">
                         <div className="col-xl-4 col-lg-3 col-md-3">
                             <div className="widget widget-infor">
-                                <p className="content"><span style={{color:'yellow'}}>Holy Spirit Contract:</span> 0x2c266aa7d0c4edcb1dc1cda0973dcc8bcf010ed6
+                                <p className="content"><span style={{color:'yellow'}}>Holy Spirit Contract:</span> undefined
 </p>
                                 <ul className="social-item">
                                     <li><Link to="https://twitter.com/HolySpiritERC20"><i className="fab fa-twitter"></i></Link></li>
