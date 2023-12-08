@@ -116,7 +116,7 @@ function Footer(props) {
                                     <li><Link to="https://twitter.com/HolySpiritERC20"><i className="fab fa-twitter"></i></Link></li>
                                     <li><Link to="https://t.me/HolySpiritERC20"><i className="fab fa-telegram-plane"></i></Link></li>
                                 </ul>
-                              
+                              <Link >
                                 <p className="copy-right">
                                 <img id="logo_footer" 
                                 style={{    
